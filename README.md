@@ -8,9 +8,6 @@ Sup weebs, welcome to my osu! archive. Common maps used for practice, chill, ect
 
 ## Where Am I
 
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
-
 | Platform | ME |
 | ------ | ------ |
 | Osu! | https://osu.ppy.sh/users/25824929 |
